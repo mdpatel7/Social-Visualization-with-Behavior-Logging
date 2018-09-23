@@ -1,0 +1,60 @@
+.line {
+   position:absolute;
+   width:100%;
+   top: 80%;
+}
+table, td, th{
+	border: 1px solid white;
+	border-collapse: collapse;
+}
+td,th{
+	padding: 7px;
+}
+
+.first,.second{
+	display: inline-block;
+}
+
+.parent{
+	margin-top: 30px;
+	color: white;
+	font-size: 15px;
+}
+
+.parent { 
+  width: 100%; 
+  padding: 10px;
+}
+.row { 
+  width: 100%;
+  letter-spacing: -0.31em;
+
+}
+
+.col1, .col2, .col3 { 
+  display: inline-block;
+  vertical-align: top;
+  
+  padding: 5px;
+  margin: 2px 0.5%;
+  letter-spacing: normal;
+  height: 600px;
+  overflow: scroll;
+}
+.col1{
+	width: 30%;
+}
+.col2{
+	width: 30%;
+}
+.col{
+	width: 30%;
+}
+.row2{
+  text-align: left;
+  color: white;
+}
+
+.heading3{
+  text-align: center;
+}
