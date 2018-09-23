@@ -2,4 +2,7 @@
 React, Node, Express , Postgresql
 
 To run this project execute-
-npm run dev
+```
+$ npm run dev
+
+```
